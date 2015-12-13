@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="border">#ffffffff</color>
+    <color name="border_fav">#ffecf40b</color>
+    <color name="backgroung">#00000000</color>
+    <color name="title_category">#ffffffff</color>
+    <color name="title_cartoon">#ffffffff</color>
+    <color name="my_tales_name">#ff000000</color>
+    <color name="my_tales_description">#ff585858</color>
+    <color name="catalog_title_color">#ffaaaaaa</color>
+    <color name="catalog_description_color">#ffaaaaaa</color>
+</resources>

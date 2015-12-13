@@ -1,0 +1,663 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/badge_googleplay.png
+SHA1-Digest: QmXKT+Xd0X1+3bQlW6sBUOIjWA4=
+
+Name: res/drawable/banner_heronandcrane.png
+SHA1-Digest: 1WlZOcsyH8UDGvXewX4TtOz+CNA=
+
+Name: assets/tale_tales_pack_1/info.txt
+SHA1-Digest: ddbLEZLwq916bpoDDnHYsesc1jw=
+
+Name: assets/tale_therewasadog/info.txt
+SHA1-Digest: epXzxyLeyjfyiSUk6Evg+u23Hb0=
+
+Name: assets/tale_sevenkozl/info.txt
+SHA1-Digest: N/GD88963P0pbIPZuJzLe9VTXUs=
+
+Name: res/drawable/banner_lisichkasoskalochkoi.png
+SHA1-Digest: LbP/ZiE8TlpMHpymGC3Y06fEM2I=
+
+Name: assets/tale_kurochka/image.png
+SHA1-Digest: VJs+zWFeFn38Tco+xti8WYUB+Ug=
+
+Name: res/drawable/banner_sbornik_1.png
+SHA1-Digest: I4TcFrbnj7KbYljuB8tqjzKeO2c=
+
+Name: assets/tale_gysilebedi/image.png
+SHA1-Digest: AtIPyrRn8ojykS4qePw0E/mWDxo=
+
+Name: res/drawable/splash_promo_apps01.png
+SHA1-Digest: nYe1tw5FQ01BmeVo3AoFsMbaMiQ=
+
+Name: res/drawable/badge_amazon.png
+SHA1-Digest: 2BnPM7ScCSznlVCEVIUaigmSsHQ=
+
+Name: res/drawable/banner_lisa_drozd.jpg
+SHA1-Digest: RudkYuJPc9K9PGN6B3fWo1jtrkw=
+
+Name: res/drawable/splash_promo_apps06.png
+SHA1-Digest: 2Uxlpqo7Y6KoBqtYevIlt++e+z8=
+
+Name: assets/tale_twofrosts/image.png
+SHA1-Digest: 2IjBBg2AWiF3i10yAU6ZDlq+esU=
+
+Name: res/drawable/all_list_shape.xml
+SHA1-Digest: 0lUbygjf7MGEkD+M658Ic2CD1aM=
+
+Name: assets/tale_dolphins/info.txt
+SHA1-Digest: Izcr79D3DXZIpJXaj82GSLFhtsU=
+
+Name: res/drawable/splash_promo_apps07.png
+SHA1-Digest: UF0XBI5F7WeHFDwfPmR1+4ERj1Q=
+
+Name: res/drawable/read_button_back.png
+SHA1-Digest: ZmWhWMeFq/2GkXDdKv/7KT8Fh+g=
+
+Name: assets/tale_cotofey/info.txt
+SHA1-Digest: 5+D8fDePawgqPoNJ26nkYI69Gb4=
+
+Name: assets/tale_cockerelandmillstones/image.png
+SHA1-Digest: /G+aI1FvWsPWzYGBPwUdFXk8BUc=
+
+Name: assets/tale_geese/info.txt
+SHA1-Digest: rxI0yvIKQ7r6zS9dlGJwETydUt4=
+
+Name: assets/tale_sivko/info.txt
+SHA1-Digest: mHEsm+SBifzhg3DtvKb/vLVE0M0=
+
+Name: res/drawable/banner_manandbear.jpg
+SHA1-Digest: YvGdlBxQljmWWKU4awIDoh9I9F4=
+
+Name: res/drawable/geekdad_logo.jpg
+SHA1-Digest: qZR6AuGrIkzCnsuE3Y3UmjewJws=
+
+Name: assets/tale_lisichkasoskalochkoi/image.png
+SHA1-Digest: AcpIbiMDoCdRzX1wsFBED7bWvmQ=
+
+Name: res/drawable/social_vkontakte.png
+SHA1-Digest: DDi8FqcjHk27Sq9hdMfpMlr5trg=
+
+Name: res/drawable/banner_sivko.png
+SHA1-Digest: Z7S2LTPgDju/GssbCmq1ryfgrZc=
+
+Name: res/drawable/banner_gysilebedi.jpg
+SHA1-Digest: +ILYfT+2mNbxuryMckzaYdmt4R4=
+
+Name: assets/tale_manandbear/info.txt
+SHA1-Digest: 5eEdUWwjis3ojLKIZ7I9+DZBq/c=
+
+Name: assets/tale_sisteralenushka/info.txt
+SHA1-Digest: q5NYUt8qXM9e5Fw2PiWrztR/vVA=
+
+Name: assets/tale_lisaidrozd/info.txt
+SHA1-Digest: CliPmgqqr28k4tw6qK2uaX5BaD0=
+
+Name: res/drawable/banner_lisichka.jpg
+SHA1-Digest: BgjMOchtx6v2aBnR4InGpivrJzQ=
+
+Name: res/drawable/banner_priestandbald.png
+SHA1-Digest: N7TtZo36L/IP5kdDDQazdJXktjE=
+
+Name: assets/tale_therewasadog/image.png
+SHA1-Digest: wldPjWrYGlXDTF+tJQq4azqq12U=
+
+Name: assets/tale_rabbitshut/image.png
+SHA1-Digest: UGMcSnWG6ceLD3lPS11QIhEuuyA=
+
+Name: res/drawable/banner_repka.jpg
+SHA1-Digest: 2UqPqqSzy09QYkllvcKZEPBKQ5s=
+
+Name: assets/tale_zhiharka/info.txt
+SHA1-Digest: 6Fl9Pe1Vv35wBlOE1Sv2PbQqks4=
+
+Name: assets/tale_flyingship/info.txt
+SHA1-Digest: 4y711bh4Y0mRwW/tUqV4mVgELyE=
+
+Name: res/drawable/banner_rooster.jpg
+SHA1-Digest: bZr2IUlUfgH3jzZjuDp8K9zkkx0=
+
+Name: res/drawable/splash_promo_apps09.png
+SHA1-Digest: 1gnZo56k93ejR8DMmd7wVqLFS/o=
+
+Name: res/drawable/social_livejournal.png
+SHA1-Digest: k4+6S25V0E27dh/p0QWSOXHCs/c=
+
+Name: res/drawable/banner_geese.png
+SHA1-Digest: iWLqpQIPd+ffe+PwIk64e+M1AvA=
+
+Name: res/drawable/splash_promo_apps08.png
+SHA1-Digest: DByjjDVlIAoUIIqwAKQQS74Y/uA=
+
+Name: assets/tale_nikita/image.png
+SHA1-Digest: fFRTNApo0H74sUE+bPH4UTchsBE=
+
+Name: assets/tale_goldfish/image.png
+SHA1-Digest: mfM6caVJ/Z0VMFlOu1KEHUyNxNU=
+
+Name: assets/tale_treeporosenka/info.txt
+SHA1-Digest: Mk373SzOJZdSRMB/HKlGZq5Lhsc=
+
+Name: assets/tale_elena/image.png
+SHA1-Digest: MC6rwd+GrKjFtIy753EOuSZobkQ=
+
+Name: res/drawable/badge_blackberry.png
+SHA1-Digest: 3JhW/cjzInmmUtEu0ZUEACiMb7M=
+
+Name: res/drawable/banner_princessa.jpg
+SHA1-Digest: eRxj/VcI3nHDdOQgDhXokpecBFU=
+
+Name: res/drawable/banner_kolobok.png
+SHA1-Digest: g3hzwQ63ZwLNp1j/FWNKPn9vakk=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: GRnJPQDNsgMuy5HV/xK+vZEfaCo=
+
+Name: assets/tale_sivko/image.png
+SHA1-Digest: iPqWBl0bXCoih8xScA1gZgcb3Vk=
+
+Name: res/drawable/banner_krylaty.jpg
+SHA1-Digest: R3GowFmWAuqEyEbcD8mJZ3MdVkA=
+
+Name: res/drawable/badge_samsung.png
+SHA1-Digest: 6fBnG69J1+Nvxulf8o77VhPfJWw=
+
+Name: assets/tale_kurochka/info.txt
+SHA1-Digest: M/nVVFmiWhzmoDnXfE2DHX8hy74=
+
+Name: res/drawable/banner_morozko.jpg
+SHA1-Digest: f0Y61Eq96zd/l8jmCI7ERR+3SHI=
+
+Name: res/drawable/banner_teremok.jpg
+SHA1-Digest: Qi3Dm4KeN5QYuNOZ8yXY/SWoq+s=
+
+Name: res/drawable/wa_logo.png
+SHA1-Digest: IJ6f89uRvRKNo21t9nlYf6s/qBo=
+
+Name: assets/tale_manandbear/image.png
+SHA1-Digest: Dxgmbp8rfMOo5muZLrEJumCrZOQ=
+
+Name: res/drawable/banner_masha.jpg
+SHA1-Digest: qLGXidjY1Gl9d0ZDZRuro6OGjYo=
+
+Name: res/drawable/splash_big.jpg
+SHA1-Digest: kG8hwJUtgcLt8eom0/xQgFKtXbw=
+
+Name: assets/tale_tales_pack_2/info.txt
+SHA1-Digest: xPyVY2WnkpuDK0l60XTG5nvV7hU=
+
+Name: assets/tale_lisichka/info.txt
+SHA1-Digest: NHXCV4Vx3IBtgR8WYJX+Spemn38=
+
+Name: res/drawable/social_twitter.png
+SHA1-Digest: JXNty2K1Ch/LwzwkyhKNfgT1ac4=
+
+Name: assets/tale_animalswinter/image.png
+SHA1-Digest: yGkQb0nmkl0it7D7CMy1sRL2HKk=
+
+Name: res/drawable-xhdpi/ic_action_search.png
+SHA1-Digest: WzSVDDIHZpn0cFeuxgKRJete4TU=
+
+Name: res/drawable/social_gplus.png
+SHA1-Digest: oMfdYPv6tH3fmKMb/V0iWY46ZQw=
+
+Name: assets/tale_sisteralenushka/image.png
+SHA1-Digest: oKRtL27Q1zsrPyR+62KGbOqA3DA=
+
+Name: res/drawable/banner_elena.png
+SHA1-Digest: ZtvXYdqS7rNGtAR8AZqvkpHyHqo=
+
+Name: res/drawable/banner_twofrosts.png
+SHA1-Digest: 6iEO1p/OmwBL0zQ7F1p0vgWuJOo=
+
+Name: assets/tale_masha/image.png
+SHA1-Digest: M6gfUWB9AtUK+BrI+ne6X/mnUhI=
+
+Name: res/drawable/social_facebook.png
+SHA1-Digest: JFdZmskguxOd0XKBELhrb8KLNyE=
+
+Name: assets/tale_cinderella/image.png
+SHA1-Digest: YBbnT/WDefj4fR9f+a8UEPR6KsM=
+
+Name: assets/tale_three_bears/image.png
+SHA1-Digest: 175SMnJrQrrcF5jI5gZIJ5mHLlI=
+
+Name: res/drawable/banner_tsarevnalyagushka.png
+SHA1-Digest: qqjEjk6dh1JSKiIq8TaH4BLQchA=
+
+Name: assets/tale_bychok/image.png
+SHA1-Digest: oOeyk865O/GeDpPBZEQ/Iuaji8I=
+
+Name: res/drawable/kinder_1.png
+SHA1-Digest: aqgzYRhPFaf3f2Xcye7my7x9LyU=
+
+Name: res/drawable/banner_babayaga.png
+SHA1-Digest: hiOc3HiaoBhpC/SCQ3fb+/00lZM=
+
+Name: res/anim/from_alpha_zoom_in.xml
+SHA1-Digest: nmTqLebcAad6Jcgm5F8XiWev/Mk=
+
+Name: assets/tale_teremok/image.png
+SHA1-Digest: gfkbXdHxHV4rNFkvTioq0ghbD7Y=
+
+Name: assets/tale_flyingship/image.png
+SHA1-Digest: gxs6LxWeaS35OmT0dXCzkviyU68=
+
+Name: res/drawable/banner_sbornik_2.png
+SHA1-Digest: pwOaCDBZ+3uTrC5SvD0dl/Fm/Og=
+
+Name: assets/tale_dolphins/image.png
+SHA1-Digest: 9OLfubgjcp2b0GgaolVs+c2RbYg=
+
+Name: res/drawable/my_border.xml
+SHA1-Digest: hizgVOd8qn85kYgWXG8OiHXskoo=
+
+Name: res/drawable/back_paid.png
+SHA1-Digest: 0yJdyKXuABfRRyH5W5nPh8qYyko=
+
+Name: res/drawable/banner_animalswinter.png
+SHA1-Digest: SpM8nE6tMsjNFtYb3rId7ncvkss=
+
+Name: assets/tale_treeporosenka/image.png
+SHA1-Digest: ngFgZFvot3wBFD0SNLJU4pUo3RQ=
+
+Name: res/drawable/kinder_3.png
+SHA1-Digest: sIoes6S1iSSRu63+sngSoKqRvnc=
+
+Name: res/drawable/banner_therewasadog.png
+SHA1-Digest: zlZTgqSnv+Qgw5AGQoIzac+RliA=
+
+Name: res/drawable/banner_cockerelandmillstones.png
+SHA1-Digest: +/bmTGSf3dX5PTtIFFWW+OFzGDM=
+
+Name: assets/tale_teremok/info.txt
+SHA1-Digest: B6uqPvectP1FJveOgnC6aB+Ocxw=
+
+Name: res/drawable/banner_spica.png
+SHA1-Digest: sVYMBbEJGSjjD+WVKmDZa44ki/8=
+
+Name: assets/tale_pussinboots/image.png
+SHA1-Digest: TkOKSeRAzyXwCOC/ylJ9XAi66Ak=
+
+Name: res/drawable/splash_vert_big.jpg
+SHA1-Digest: s8dKoMpao2UlBgpgh2r/e3s9Dhg=
+
+Name: res/drawable/banner_taleaboutfish.jpg
+SHA1-Digest: BdC1WFY/JCV1ODzP8Mo945/2INg=
+
+Name: res/drawable/banner_dolphins.png
+SHA1-Digest: xST6Glk6Mvgy4agfKEzaJRC973M=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 0Nd7eRm0D5/l7hvg81DCFKRZPBg=
+
+Name: assets/tale_rooster/image.png
+SHA1-Digest: bkja7UTRqXq2L8G/1bM7T+xR0Iw=
+
+Name: assets/tale_elena/info.txt
+SHA1-Digest: uQN0T4DnO8aSuTPOfalGkZG0Q1A=
+
+Name: assets/tale_krylaty/info.txt
+SHA1-Digest: XP2SacmLnfMvv3e4DdR9LPEGr3o=
+
+Name: res/drawable/banner_kasha.png
+SHA1-Digest: YVkUwsW2RIedjGiryfNKwneoIGQ=
+
+Name: assets/tale_gysilebedi/info.txt
+SHA1-Digest: BdN3L8NcsmSCSracgGQerOfmcPY=
+
+Name: res/drawable/button_background.png
+SHA1-Digest: qQfOvtu4EP0IxJ54sR9huhPyMwc=
+
+Name: assets/tale_heronandcrane/image.png
+SHA1-Digest: Hc4sAlAcpYXg9/Ine0hYQtIXj78=
+
+Name: res/drawable/info_light.png
+SHA1-Digest: 1clBei7AUmy7b4aIdTXH0n1pKXk=
+
+Name: assets/tale_ladushki/info.txt
+SHA1-Digest: 06kviiSnQ22KADvBaE3v0gmNrUQ=
+
+Name: assets/tale_lisichkasoskalochkoi/info.txt
+SHA1-Digest: yJYwC2zaZoa6EJT5eALtDDbtVKk=
+
+Name: res/drawable/button_clicked_background.png
+SHA1-Digest: b0BDiB2Cx/IUcsDwF9VJms3lX+k=
+
+Name: assets/tale_three_bears/info.txt
+SHA1-Digest: uBypvoi9HvsAjD5Vg2zY3NDmkUA=
+
+Name: assets/tale_cockerelandmillstones/info.txt
+SHA1-Digest: p5PgHEH0bI2FYddUtZLMdtQEaKA=
+
+Name: res/anim/zoom_out_with_alpha.xml
+SHA1-Digest: iJKT62n4AbSeacKnLpWExdaxMr8=
+
+Name: assets/tale_taleaboutfish/image.png
+SHA1-Digest: Xs7LkhwWXppHZ5H3MNVE4ZIWpfQ=
+
+Name: assets/tale_tales_pack_1/image.png
+SHA1-Digest: zQmNSm9ROnYEGiD1pDSUxooA2lY=
+
+Name: assets/tale_masha/info.txt
+SHA1-Digest: fFp9Fh6oSuvEd011lw/1dqBWZss=
+
+Name: assets/tale_lisaidrozd/image.png
+SHA1-Digest: 82xGOrlSn1/hKFpde8UmKF/e4Ys=
+
+Name: assets/tale_tomthumb/image.png
+SHA1-Digest: 8W2ggeMIMLDu2VAqLlHRQj/2DIw=
+
+Name: assets/tale_krylaty/image.png
+SHA1-Digest: 8lqKA8a3C72CAsth33YXFSscqxo=
+
+Name: res/drawable/banner_ladushki.png
+SHA1-Digest: xEWVvuwfUQQ6fck/QcTUP5iY1Uk=
+
+Name: assets/tale_priestandbald/image.png
+SHA1-Digest: ZUjyQcYqpbkX+fE621/MpO9ooYk=
+
+Name: res/drawable/banner_sbornik_3.png
+SHA1-Digest: 5NIopycO08tPN/Vho2z2lVfe3ag=
+
+Name: assets/tale_pan/info.txt
+SHA1-Digest: YxmsxK1nEK/aiQxn7mI1Rgq2eHQ=
+
+Name: res/drawable/banner_pan.png
+SHA1-Digest: Ird88a6PIVF43bOkrlJdX19AMAY=
+
+Name: assets/tale_princess/info.txt
+SHA1-Digest: yXiqNKSwxHTHpch0iim+2MRyvgE=
+
+Name: res/drawable-hdpi/ic_action_search.png
+SHA1-Digest: rOWnNxWCWKwkicf+FpYGMg1fX2Y=
+
+Name: res/drawable/banner_sevenkozl.jpg
+SHA1-Digest: py80dEfnlx0icKzu34H9uELaY/Q=
+
+Name: assets/tale_pussinboots/info.txt
+SHA1-Digest: AfJ09eYMLUzvQlxb6xSJJb0n1Sw=
+
+Name: assets/tale_redhood/info.txt
+SHA1-Digest: dDDfmGs1hwuSJJb0gLs/JkifIow=
+
+Name: assets/tale_tsarevnalyagushka/image.png
+SHA1-Digest: R77wWpOhGHqqyhmpa7Qid1V54HI=
+
+Name: res/drawable/geekdad_logo_front.jpg
+SHA1-Digest: YwgkNkLpmV3hHfd0CxWW/h7y/AM=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: assets/tale_howagoatbuiltahut/image.png
+SHA1-Digest: 4pyCprFcZhR1BoqJMp0e442OiJg=
+
+Name: res/drawable/banner_twogreedybears.jpg
+SHA1-Digest: nkRlMGqlCzeCWhVGyWQVNqhlXRk=
+
+Name: res/anim/zoom_in_and_back_out.xml
+SHA1-Digest: me+fu8eBlVHvNUPgx+FzGzrwq0E=
+
+Name: res/layout/tales_main.xml
+SHA1-Digest: 7YkCivaukxYPmRmrz57+/dtDgog=
+
+Name: resources.arsc
+SHA1-Digest: PGlYN3mMwNA7/WkpG7o6LUhUY/Q=
+
+Name: res/layout/social_template.xml
+SHA1-Digest: K9ZcaRtP6jQ+x6WYNKn7rp+wmdA=
+
+Name: assets/tale_animalswinter/info.txt
+SHA1-Digest: kR5NN7z1dVUiZ62iOcmae12g7G0=
+
+Name: res/drawable/row_shape.xml
+SHA1-Digest: yDyiB6HNcXUl03RMVUtqxn/1n4g=
+
+Name: assets/tale_tales_pack_3/info.txt
+SHA1-Digest: R3w8U2W4xKh28tfSSlfdGnR5aN4=
+
+Name: assets/tale_cinderella/info.txt
+SHA1-Digest: +T4ynZh0HkAY1ytIRuaXlJ0F378=
+
+Name: assets/tale_nikita/info.txt
+SHA1-Digest: 8TLbTLgRaLEBnTAUwqyrqmj2qgs=
+
+Name: res/drawable/back_free.png
+SHA1-Digest: EhX/R1GL3yNKrrjCRE5nZ0dw9GA=
+
+Name: assets/tale_tomthumb/info.txt
+SHA1-Digest: xiAQ4eeLUAsHgbLjy18Ipp3snHU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ZExYCRTMydc6q09sp0+X6Mrna60=
+
+Name: assets/tale_lisichka/image.png
+SHA1-Digest: 4P3fqMLZiynvGBioxb8VKJzsFIc=
+
+Name: res/drawable/splash_promo_apps03.png
+SHA1-Digest: Ym3c30AdjvMCPb+TcIbdwqKNX7Q=
+
+Name: res/drawable/banner_bychok.png
+SHA1-Digest: pLMcR+o2u3ENGIfEbNa+l7CQYv0=
+
+Name: assets/tale_redhood/image.png
+SHA1-Digest: Y+zIgSHGSDQiY0/j2igOznOj+AU=
+
+Name: assets/tale_kasha/info.txt
+SHA1-Digest: GkfyJm6BoppCoQ2GUxiztYOyMn0=
+
+Name: res/drawable/banner_redhood.png
+SHA1-Digest: anS+FDf+B8kwRZCRC5v2THq6C9A=
+
+Name: res/drawable/banner_threebears.jpg
+SHA1-Digest: i0HQutxIsFWHuu1UF1oSOwbLxI0=
+
+Name: res/drawable/banner_pussinboots.png
+SHA1-Digest: DhSq2c9Bs/BDRHD+fpdwvXXhC7w=
+
+Name: res/drawable/social_googleplay_icon.png
+SHA1-Digest: Lg+b+FzKf49x+gBH9Ra0m8TyI9E=
+
+Name: res/drawable/badge_yandex.png
+SHA1-Digest: L29JX6vpfONQ/bJksyE9PD8mc/s=
+
+Name: res/drawable/splash.jpg
+SHA1-Digest: I/gLo1OVoliTze4WLU0WeioYkeA=
+
+Name: classes.dex
+SHA1-Digest: VpC/rZq948J4C4tpH1MoyjnXvi8=
+
+Name: assets/tale_babayaga/image.png
+SHA1-Digest: cR1oIvxSI9OFnGdPbOW+5wJM0AA=
+
+Name: res/drawable/splash_promo_apps04.png
+SHA1-Digest: Cg/XlVQIwxZSFxIEiDg4MwtYllo=
+
+Name: assets/tale_spica/image.png
+SHA1-Digest: nmYh0pL5AzXK/4mU0B61rgrw8d8=
+
+Name: assets/tale_repka/image.png
+SHA1-Digest: wk850W1lQad9htGh6R699sqraz8=
+
+Name: res/drawable/banner_cinderella.png
+SHA1-Digest: 8Byyx4Ld6afuozs+cWsLhCAnmWM=
+
+Name: res/drawable/banner_zhiharka.png
+SHA1-Digest: cKi9x9MaflOF7trIlTi++YNj34M=
+
+Name: assets/tale_morozko/image.png
+SHA1-Digest: avlIEfbI2OMsqPFABaJRMvraNnM=
+
+Name: assets/tale_kolobok/image.png
+SHA1-Digest: oW2eivDyV7HprFf0CFLhEsW9nJc=
+
+Name: assets/tale_rabbitshut/info.txt
+SHA1-Digest: 3FOLqEGoZiiuJp+K6qHxPpBOasE=
+
+Name: res/drawable/banner_tomthumb.png
+SHA1-Digest: ySr6frGXCGdSyzLCjdb2iFoTD8Q=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: assets/tale_morozko/info.txt
+SHA1-Digest: JdZDh75sAqXrRUZnJgF1mQN4ybE=
+
+Name: res/drawable-mdpi/ic_action_search.png
+SHA1-Digest: XjltJdEB3tvakTn9CN7KwdaNT68=
+
+Name: res/drawable/splash_vert.jpg
+SHA1-Digest: rjESI6hmQpdZrz4P+eo8RLmckQs=
+
+Name: assets/tale_crownking/image.png
+SHA1-Digest: 2Zv/Z4wRrsqgsAKc5bvxLCiUXHw=
+
+Name: assets/tale_heronandcrane/info.txt
+SHA1-Digest: cbCVDJV7k2ab5lIkmFrqUIMvC6g=
+
+Name: assets/tale_zhiharka/image.png
+SHA1-Digest: VDmeVp8OEC+2BoEHcg9BR8UsxIM=
+
+Name: assets/tale_tales_pack_mega/image.png
+SHA1-Digest: RwQbdMT6rpCk87dE3kAHDdS7+04=
+
+Name: res/drawable/splash_promo_apps02.png
+SHA1-Digest: zCJlQOXz+wkpcd/N95eEe4P1Isg=
+
+Name: res/drawable/banner_sisteralenushka.png
+SHA1-Digest: T86+NdAyBsI1yPfcT/huFjskNpo=
+
+Name: assets/tale_tales_pack_2/image.png
+SHA1-Digest: O1UKAvKS4mxEsyOIa0rA1jeIyHI=
+
+Name: assets/tale_sevenkozl/image.png
+SHA1-Digest: m3oweISS1AE+0eiNtlM1c3q4hoM=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 7AXHfUBfmeVt0A1nFVF7oOnzjSc=
+
+Name: assets/tale_spica/info.txt
+SHA1-Digest: wnVqx6x4eyws4whV35bAJAtSlak=
+
+Name: assets/tale_princess/image.png
+SHA1-Digest: trBtcMMBDL24HBYCMudBvPxqsjQ=
+
+Name: assets/tale_tales_pack_3/image.png
+SHA1-Digest: wOHOoHRacwc6gm9JhoOEobFBdmY=
+
+Name: res/layout-xlarge/my_tales_row.xml
+SHA1-Digest: aYs2H0wib+IoN2kR6jhOEwd2JHY=
+
+Name: assets/tale_goldfish/info.txt
+SHA1-Digest: 8A9G/E1zzxAndClOl2gdLZc9Krg=
+
+Name: assets/tale_ladushki/image.png
+SHA1-Digest: ksyLNgxgKGI9Z48Lyx70e89+sPg=
+
+Name: assets/tale_tales_pack_mega/info.txt
+SHA1-Digest: 6APuHNy/J45XB0G103UL9wrfjRk=
+
+Name: assets/tale_crownking/info.txt
+SHA1-Digest: 0PtnvZRyXNB0aZRO8kdF1qfTACE=
+
+Name: res/xml/settings.xml
+SHA1-Digest: typY0K5wZT1eKd5l+jmpssF99TM=
+
+Name: assets/tale_priestandbald/info.txt
+SHA1-Digest: hw1qpev/rS1KaCG4Gd8rPWCB094=
+
+Name: assets/tale_kolobok/info.txt
+SHA1-Digest: lSBnfwfdmh7QgmC6sXI7RF/NtT4=
+
+Name: res/drawable/banner_flyingship.png
+SHA1-Digest: EFY4jyceV+szP5I70Agm1gLM7Sk=
+
+Name: res/drawable/banner_threeporosenka.jpg
+SHA1-Digest: prijqCRUcEjFifhiv+VnNFXsnNM=
+
+Name: assets/tale_pan/image.png
+SHA1-Digest: Dbl1SUoeMyr7Emfi3oVinkLDutM=
+
+Name: assets/tale_kasha/image.png
+SHA1-Digest: vgiETuOBXZe9jmSMOV6sHynhlvY=
+
+Name: assets/tale_taleaboutfish/info.txt
+SHA1-Digest: HcYadXaGtnUndJPRrPmj5dwXsXQ=
+
+Name: res/drawable/banner_howagoatbuiltahut.png
+SHA1-Digest: IO0FmHxLdnW/F9TB11qxFCc2ESE=
+
+Name: res/layout/about.xml
+SHA1-Digest: swOuAkHqeESJvMHJDX67LiYXC+4=
+
+Name: res/drawable/kinder_4.png
+SHA1-Digest: PLV118FCKu+VPfuJGuj3IDcC0co=
+
+Name: res/drawable/banner_nikita.png
+SHA1-Digest: oNp3SOInKDVvRVY6EiZSD73kZoM=
+
+Name: assets/tale_bychok/info.txt
+SHA1-Digest: F4miQZVlBKhNWKD99Ozic0yuk7Q=
+
+Name: res/layout/my_tales_row.xml
+SHA1-Digest: 7ipL3IcNFA+Bc2yRQoT+18S/h3Q=
+
+Name: assets/tale_rooster/info.txt
+SHA1-Digest: NmIimsaX9gj9EnPn32nge5RkJGQ=
+
+Name: assets/tale_cotofey/image.png
+SHA1-Digest: ubTqgazfpYxMdLk1z0E2cJh2aCA=
+
+Name: assets/tale_babayaga/info.txt
+SHA1-Digest: 06aQe7NiRhriKA+jsc3aMX1eto8=
+
+Name: res/anim/zoom_in.xml
+SHA1-Digest: Qh+2PAdSftRvGl2JtuxnwnpAdck=
+
+Name: assets/tale_tsarevnalyagushka/info.txt
+SHA1-Digest: 8+wfMBOOSX4Y4SfCjpgb0W1ur5s=
+
+Name: res/drawable/kinder_2.png
+SHA1-Digest: OcRfw/x/2OaSbOCZraJ5vcIt5xw=
+
+Name: res/drawable/banner_crownking.png
+SHA1-Digest: ah+8NPq0Xs647yMGe2cM5mdVFPk=
+
+Name: res/drawable/twinscom_logo.png
+SHA1-Digest: iMy88EE5o9vnADxNIePFIvWSeY8=
+
+Name: assets/tale_repka/info.txt
+SHA1-Digest: ZymSOBohSjHxHdXJtYTy0LkxPDA=
+
+Name: assets/tale_twofrosts/info.txt
+SHA1-Digest: MPIq0B7UUXMPDoQpWrvRoAuu+ow=
+
+Name: assets/tale_geese/image.png
+SHA1-Digest: yA7UOoSpN//TeVkqdr2Na3EW798=
+
+Name: assets/tale_howagoatbuiltahut/info.txt
+SHA1-Digest: jH8zRD+xhZX8SuTWjMdC9eCd9w0=
+
+Name: res/drawable/banner_rabbitshut.png
+SHA1-Digest: +etdAux1IdvxkwYVmohGQhoP1sE=
+
+Name: res/drawable/banner_sbornik_mega.png
+SHA1-Digest: BsclaAisf1Xh75uiGA4yE9Xowy0=
+
+Name: res/anim/zoom_out.xml
+SHA1-Digest: SS+2OjB3g5AW8NVgRKtqQcqw5KQ=
+
+Name: res/drawable/banner_kurochka.jpg
+SHA1-Digest: xoaGWaUl89zjUaXM53svlfWXb9s=
+
+Name: res/drawable/social_googleplay.png
+SHA1-Digest: SMKaaO7koI/tFoujlskfMDD1Tj4=
+
+Name: res/drawable/banner_cotofey.png
+SHA1-Digest: 08aqC7gk40H4BmHe4uuYyvv5ZtU=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+

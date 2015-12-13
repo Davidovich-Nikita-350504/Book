@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="#333333" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="1" android:orientation="1" android:id="@id/about_layout" android:background="#333333" android:paddingBottom="10dp" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:textSize="@dimen/about_text_size" android:textColor="#ffffff" android:layout_width="-2" android:layout_height="-2" android:text="Сказки для детей" />
+        <WebView android:textColor="#ff000000" android:id="@id/text" android:padding="7dp" android:layout_width="-1" android:layout_height="-2" />
+        <TextView android:textSize="@dimen/about_text_size_2" android:textColor="#ffffffff" android:paddingTop="5dp" android:layout_width="-2" android:layout_height="-2" android:text="Ищите нас на:" />
+        <LinearLayout android:gravity="1" android:orientation="1" android:paddingBottom="20dp" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:gravity="1" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                <ImageView android:id="@id/share_googleplay" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/social_googleplay" />
+            </LinearLayout>
+            <LinearLayout android:gravity="1" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                <ImageView android:id="@id/share_vkontakte" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/social_vkontakte" />
+                <ImageView android:id="@id/share_facebook" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/social_facebook" />
+                <ImageView android:id="@id/share_twitter" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/social_twitter" />
+                <ImageView android:id="@id/share_gplus" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/social_gplus" />
+                <ImageView android:id="@id/share_livejournal" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/social_livejournal" />
+            </LinearLayout>
+        </LinearLayout>
+        <TextView android:textSize="@dimen/about_text_size_2" android:textColor="#ffffffff" android:gravity="11" android:id="@id/share" android:background="@drawable/read_button_back" android:padding="3dp" android:layout_width="-2" android:layout_height="-2" android:text="Поделиться" />
+    </LinearLayout>
+</ScrollView>

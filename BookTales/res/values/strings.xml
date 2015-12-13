@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_policy_link">http://www.whisperarts.com/policy/</string>
+    <string name="vkontakte_link">http://vkontakte.ru/whisperarts</string>
+    <string name="facebook_link">http://www.whisperarts.com/policy/</string>
+    <string name="twitter_link">http://www.twitter.com/whisperarts</string>
+    <string name="google_play_link">https://play.google.com/store/apps/developer?id=Whisper+Arts</string>
+    <string name="gplus_link">http://plus.google.com/106241126751317993861</string>
+    <string name="app_name">Сказки и книжки для детей</string>
+    <string name="tab1_name">Сказки</string>
+    <string name="tab2_name">Каталог</string>
+    <string name="tab3_name">О приложении</string>
+    <string name="exit_warning">Для выхода нажмите Назад еще раз</string>
+    <string name="about_version">Версия 1.1.0</string>
+    <string name="rate_app_text">Похоже, что вам нравится наше приложение! Чтобы поддержать нас, пожалуйста, оцените его в маркете</string>
+    <string name="go_to_market_for_app_text">Данная сказка не установлена. Для установки сказки Вы будете перенаправлены в маркет. Установить?</string>
+    <string name="go_to_market_banner_text">Для установки сказки Вы будете перенаправлены в маркет. Установить?</string>
+    <string name="go_to_market_button_text">Перейти в маркет</string>
+    <string name="cancel_dialog_text">Больше не предлагать</string>
+    <string name="recommend_text">"Рекомендую приложение 'Сказки для детей' от компании WhisperArts. 
+ Ссылка на маркет: https://play.google.com/store/apps/details?id=com.whisperarts.tales"</string>
+    <string name="about_text">&lt;html> &lt;head> &lt;meta http-equiv=content-type content=text/html; charset=utf-8> &lt;/head> &lt;body style=text-align:justify; text=#ffffff bgcolor=#333333> &lt;p>&amp;emsp;Мы родители и у нас есть дети. К сожалению, хороших приложений на русском языке для платформы Android очень мало. Поэтому в первую очередь мы делаем приложения для наших детей. Мы будем рады, если они Вам пригодятся.&lt;/p> &lt;p>&amp;emsp;Ваши отзывы и пожелания пишите в комментариях к приложению на маркете или на &lt;font color=0000FF>&lt;u>whisperarts@gmail.com&lt;/u>&lt;/font>&lt;/p> &lt;/body> &lt;/html></string>
+    <string name="recommendation_subject">Андроид-приложение Сказки для детей</string>
+    <string name="recommendation_body">Рекомендую посмотреть приложение</string>
+</resources>

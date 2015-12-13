@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:background="#333333" android:layout_width="-1" android:layout_height="-1">
+        <ImageView android:id="@id/splash" android:layout_width="-1" android:layout_height="-1" android:scaleType="1" android:contentDescription="Splash screen" />
+        <LinearLayout android:orientation="1" android:id="@id/tales_list_layout" android:layout_width="-1" android:layout_height="-1" /> />
+    <LinearLayout android:gravity="50" android:orientation="0" android:layout_width="-1" android:layout_height="-1"
+        <LinearLayout android:gravity="55" android:orientation="0" android:id="@id/left_logo_part" android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0" />
+        <LinearLayout android:gravity="55" android:layout_gravity="55" android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0">
+            <ImageView android:id="@id/promo" android:layout_width="-1" android:layout_height="-2" android:scaleType="4" android:adjustViewBounds="true" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

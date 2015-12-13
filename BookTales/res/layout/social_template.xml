@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="1" android:orientation="1" android:layout_width="-2" android:layout_height="-2">
+    <ImageView android:id="@id/share_googleplay" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/badge_googleplay" />
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="68dp" android:layout_marginLeft="50dp" android:layout_marginRight="50dp">
+        <ImageView android:id="@id/share_vkontakte" android:src="@drawable/social_vkontakte" style="@style/SocialIcon" />
+        <ImageView android:id="@id/share_facebook" android:src="@drawable/social_facebook" style="@style/SocialIcon" />
+        <ImageView android:id="@id/share_twitter" android:src="@drawable/social_twitter" style="@style/SocialIcon" />
+        <ImageView android:id="@id/share_gplus" android:src="@drawable/social_gplus" style="@style/SocialIcon" />
+    </LinearLayout>
+</LinearLayout>

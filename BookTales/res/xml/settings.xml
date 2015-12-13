@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="Каталог" />
+    <CheckBoxPreference android:title="Показывать предложения" android:key="show_ad" android:summary="Показывать специальные предложения и рекомендуемые сказки" android:defaultValue="true" />
+    <PreferenceCategory android:title="Сказки">
+        <CheckBoxPreference android:title="Читать сказку" android:key="autoplay" android:defaultValue="true" />
+        <CheckBoxPreference android:title="Проигрывать звук" android:key="no_sound" android:defaultValue="true" />
+        <CheckBoxPreference android:title="Показывать текст" android:key="hide_text" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

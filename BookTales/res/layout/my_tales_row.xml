@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/root" android:paddingLeft="@dimen/padding_3" android:paddingTop="@dimen/padding_1" android:paddingRight="@dimen/padding_3" android:paddingBottom="@dimen/padding_1" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="0" android:id="@id/frame" android:background="@drawable/row_shape" android:paddingLeft="@dimen/padding_2" android:paddingTop="@dimen/padding_3" android:paddingRight="@dimen/padding_2" android:paddingBottom="@dimen/padding_3" android:layout_width="-1" android:layout_height="-2">
+        <ImageView android:id="@id/icon" android:layout_width="60dp" android:layout_height="60dp" android:src="@drawable/icon" android:scaleType="1" />
+        <LinearLayout android:orientation="1" android:paddingLeft="5dp" android:layout_width="-1" android:layout_height="-2" android:layout_weight="0.5">
+            <TextView android:textSize="22dp" android:textColor="@color/my_tales_name" android:id="@id/title" android:layout_width="-2" android:layout_height="-2" android:text="Title" />
+            <TextView android:textColor="@color/my_tales_description" android:id="@id/description" android:layout_width="-1" android:layout_height="-2" android:text="Some description goes here" />
+        </LinearLayout>
+        <LinearLayout android:gravity="1" android:orientation="1" android:id="@id/buy_button_layout" android:layout_width="-2" android:layout_height="-2" android:layout_weight="0.25">
+            <TextView android:textSize="12dp" android:textColor="#fff" android:id="@id/price" android:layout_width="-2" android:layout_height="-2" android:text="" />
+            <TextView android:textSize="12dp" android:textColor="#ffffffff" android:textColorHighlight="#ffff0000" android:gravity="11" android:id="@id/buy_button" android:background="@drawable/back_free" android:padding="1dp" android:layout_width="-2" android:layout_height="-2" android:text="Обновить" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

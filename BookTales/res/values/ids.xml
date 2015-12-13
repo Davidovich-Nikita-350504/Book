@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="about_layout">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="share_googleplay">false</item>
+    <item type="id" name="share_vkontakte">false</item>
+    <item type="id" name="share_facebook">false</item>
+    <item type="id" name="share_twitter">false</item>
+    <item type="id" name="share_gplus">false</item>
+    <item type="id" name="share_livejournal">false</item>
+    <item type="id" name="share">false</item>
+    <item type="id" name="root">false</item>
+    <item type="id" name="frame">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="description">false</item>
+    <item type="id" name="buy_button_layout">false</item>
+    <item type="id" name="price">false</item>
+    <item type="id" name="buy_button">false</item>
+    <item type="id" name="splash">false</item>
+    <item type="id" name="tales_list_layout">false</item>
+    <item type="id" name="left_logo_part">false</item>
+    <item type="id" name="promo">false</item>
+</resources>
